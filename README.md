@@ -14,3 +14,8 @@ My name is Tuan - a first year master's student majoring in information security
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Tuan - a first year master's student majoring in information security at the university.
+- 🌱 I’m currently learning cryptography and quantum cryptography.
+- 💬 Ask me about math and cryptography.
+- 📫 How to reach me: caotuanth2000@gmail.com
